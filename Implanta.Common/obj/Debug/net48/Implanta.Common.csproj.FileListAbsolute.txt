@@ -1,0 +1,12 @@
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net48\Implanta.Common.dll
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net48\Implanta.Common.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net48\EntityFramework.SqlServer.dll
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net48\EntityFramework.dll
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.csproj.AssemblyReference.cache
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.AssemblyInfoInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.AssemblyInfo.cs
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.csproj.CoreCompileInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.csproj.CopyComplete
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.dll
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.pdb

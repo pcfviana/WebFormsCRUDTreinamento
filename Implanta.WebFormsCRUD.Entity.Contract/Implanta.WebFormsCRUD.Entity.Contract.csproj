@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+	</PropertyGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Implanta.Common\Implanta.Common.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="System.ServiceModel" />
+	</ItemGroup>
+</Project>

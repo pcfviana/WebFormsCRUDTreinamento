@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+	</PropertyGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Implanta.WebFormsCRUD.Business.Concret\Implanta.WebFormsCRUD.Business.Concret.csproj" />
+	  <ProjectReference Include="..\Implanta.WebFormsCRUD.Business.Contract\Implanta.WebFormsCRUD.Business.Contract.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="System.ServiceModel" />
+	</ItemGroup>
+</Project>

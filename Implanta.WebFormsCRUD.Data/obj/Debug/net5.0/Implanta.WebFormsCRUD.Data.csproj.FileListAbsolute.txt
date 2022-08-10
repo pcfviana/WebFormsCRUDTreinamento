@@ -1,0 +1,15 @@
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\bin\Debug\net5.0\Implanta.WebFormsCRUD.Data.deps.json
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\bin\Debug\net5.0\Implanta.WebFormsCRUD.Data.runtimeconfig.json
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\bin\Debug\net5.0\Implanta.WebFormsCRUD.Data.runtimeconfig.dev.json
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\bin\Debug\net5.0\Implanta.WebFormsCRUD.Data.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\bin\Debug\net5.0\Implanta.WebFormsCRUD.Data.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.csproj.AssemblyReference.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.AssemblyInfoInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.AssemblyInfo.cs
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.csproj.CoreCompileInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\refint\Implanta.WebFormsCRUD.Data.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\Implanta.WebFormsCRUD.Data.genruntimeconfig.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Data\obj\Debug\net5.0\ref\Implanta.WebFormsCRUD.Data.dll

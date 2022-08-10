@@ -1,0 +1,309 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "EntityFramework/6.4.4": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.ComponentModel.DataAnnotations"
+        ],
+        "compile": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/EntityFramework.SqlServer.dll": {},
+          "lib/net45/EntityFramework.dll": {}
+        },
+        "build": {
+          "buildTransitive/EntityFramework.props": {},
+          "buildTransitive/EntityFramework.targets": {}
+        }
+      },
+      "Implanta.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "EntityFramework": "6.4.4"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.Common.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.Business.Concret/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Implanta.WebFormsCRUD.Business.Contract": "1.0.0",
+          "Implanta.WebFormsCRUD.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Business.Concret.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Business.Concret.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.Business.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Implanta.Common": "1.0.0",
+          "Implanta.WebFormsCRUD.Data": "1.0.0",
+          "Implanta.WebFormsCRUD.Entity.Concret": "1.0.0",
+          "Implanta.WebFormsCRUD.Entity.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Business.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Business.Contract.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.Business.Factory/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Implanta.WebFormsCRUD.Business.Concret": "1.0.0",
+          "Implanta.WebFormsCRUD.Business.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Business.Factory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Business.Factory.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "EntityFramework": "6.4.4"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Data.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.Entity.Concret/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Implanta.Common": "1.0.0",
+          "Implanta.WebFormsCRUD.Entity.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Entity.Concret.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Entity.Concret.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.Entity.Contract/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Implanta.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Entity.Contract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Entity.Contract.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.IView/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "Implanta.Common": "1.0.0",
+          "Implanta.WebFormsCRUD.Entity.Concret": "1.0.0",
+          "Implanta.WebFormsCRUD.Entity.Contract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.IView.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.IView.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntityFramework/6.4.4": {
+      "sha512": "yj1+/4tci7Panu3jKDHYizxwVm0Jvm7b7m057b5h4u8NUHGCR8WIWirBTw+8EptRffwftIWPBeIRGNKD1ewEMQ==",
+      "type": "package",
+      "path": "entityframework/6.4.4",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "build/EntityFramework.DefaultItems.props",
+        "build/EntityFramework.props",
+        "build/EntityFramework.targets",
+        "build/Microsoft.Data.Entity.Build.Tasks.dll",
+        "build/netcoreapp3.0/EntityFramework.props",
+        "build/netcoreapp3.0/EntityFramework.targets",
+        "buildTransitive/EntityFramework.props",
+        "buildTransitive/EntityFramework.targets",
+        "buildTransitive/netcoreapp3.0/EntityFramework.props",
+        "buildTransitive/netcoreapp3.0/EntityFramework.targets",
+        "content/net40/App.config.install.xdt",
+        "content/net40/App.config.transform",
+        "content/net40/Web.config.install.xdt",
+        "content/net40/Web.config.transform",
+        "entityframework.6.4.4.nupkg.sha512",
+        "entityframework.nuspec",
+        "lib/net40/EntityFramework.SqlServer.dll",
+        "lib/net40/EntityFramework.SqlServer.xml",
+        "lib/net40/EntityFramework.dll",
+        "lib/net40/EntityFramework.xml",
+        "lib/net45/EntityFramework.SqlServer.dll",
+        "lib/net45/EntityFramework.SqlServer.xml",
+        "lib/net45/EntityFramework.dll",
+        "lib/net45/EntityFramework.xml",
+        "lib/netstandard2.1/EntityFramework.SqlServer.dll",
+        "lib/netstandard2.1/EntityFramework.SqlServer.xml",
+        "lib/netstandard2.1/EntityFramework.dll",
+        "lib/netstandard2.1/EntityFramework.xml",
+        "tools/EntityFramework6.PS2.psd1",
+        "tools/EntityFramework6.PS2.psm1",
+        "tools/EntityFramework6.psd1",
+        "tools/EntityFramework6.psm1",
+        "tools/about_EntityFramework6.help.txt",
+        "tools/init.ps1",
+        "tools/install.ps1",
+        "tools/net40/any/ef6.exe",
+        "tools/net40/any/ef6.pdb",
+        "tools/net40/win-x86/ef6.exe",
+        "tools/net40/win-x86/ef6.pdb",
+        "tools/net45/any/ef6.exe",
+        "tools/net45/any/ef6.pdb",
+        "tools/net45/win-x86/ef6.exe",
+        "tools/net45/win-x86/ef6.pdb",
+        "tools/netcoreapp3.0/any/ef6.dll",
+        "tools/netcoreapp3.0/any/ef6.pdb",
+        "tools/netcoreapp3.0/any/ef6.runtimeconfig.json"
+      ]
+    },
+    "Implanta.Common/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.Common/Implanta.Common.csproj",
+      "msbuildProject": "../Implanta.Common/Implanta.Common.csproj"
+    },
+    "Implanta.WebFormsCRUD.Business.Concret/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.Business.Concret/Implanta.WebFormsCRUD.Business.Concret.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.Business.Concret/Implanta.WebFormsCRUD.Business.Concret.csproj"
+    },
+    "Implanta.WebFormsCRUD.Business.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.Business.Contract/Implanta.WebFormsCRUD.Business.Contract.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.Business.Contract/Implanta.WebFormsCRUD.Business.Contract.csproj"
+    },
+    "Implanta.WebFormsCRUD.Business.Factory/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.Business.Factory/Implanta.WebFormsCRUD.Business.Factory.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.Business.Factory/Implanta.WebFormsCRUD.Business.Factory.csproj"
+    },
+    "Implanta.WebFormsCRUD.Data/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.Data/Implanta.WebFormsCRUD.Data.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.Data/Implanta.WebFormsCRUD.Data.csproj"
+    },
+    "Implanta.WebFormsCRUD.Entity.Concret/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.Entity.Concret/Implanta.WebFormsCRUD.Entity.Concret.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.Entity.Concret/Implanta.WebFormsCRUD.Entity.Concret.csproj"
+    },
+    "Implanta.WebFormsCRUD.Entity.Contract/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.Entity.Contract/Implanta.WebFormsCRUD.Entity.Contract.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.Entity.Contract/Implanta.WebFormsCRUD.Entity.Contract.csproj"
+    },
+    "Implanta.WebFormsCRUD.IView/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.IView/Implanta.WebFormsCRUD.IView.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.IView/Implanta.WebFormsCRUD.IView.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "Implanta.Common >= 1.0.0",
+      "Implanta.WebFormsCRUD.Business.Contract >= 1.0.0",
+      "Implanta.WebFormsCRUD.Business.Factory >= 1.0.0",
+      "Implanta.WebFormsCRUD.IView >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\paulo.cesar\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Presenter\\Implanta.WebFormsCRUD.Presenter.csproj",
+      "projectName": "Implanta.WebFormsCRUD.Presenter",
+      "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Presenter\\Implanta.WebFormsCRUD.Presenter.csproj",
+      "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
+      "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Presenter\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\paulo.cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
+              "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
+            },
+            "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj": {
+              "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj"
+            },
+            "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Factory\\Implanta.WebFormsCRUD.Business.Factory.csproj": {
+              "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Factory\\Implanta.WebFormsCRUD.Business.Factory.csproj"
+            },
+            "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.IView\\Implanta.WebFormsCRUD.IView.csproj": {
+              "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.IView\\Implanta.WebFormsCRUD.IView.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

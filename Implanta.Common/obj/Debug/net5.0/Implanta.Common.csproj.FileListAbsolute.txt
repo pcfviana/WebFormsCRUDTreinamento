@@ -1,0 +1,15 @@
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net5.0\Implanta.Common.deps.json
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net5.0\Implanta.Common.runtimeconfig.json
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net5.0\Implanta.Common.runtimeconfig.dev.json
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net5.0\Implanta.Common.dll
+D:\Treinamento\WebFormsCRUD\Implanta.Common\bin\Debug\net5.0\Implanta.Common.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.csproj.AssemblyReference.cache
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.AssemblyInfoInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.AssemblyInfo.cs
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.csproj.CoreCompileInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.dll
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\refint\Implanta.Common.dll
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\Implanta.Common.genruntimeconfig.cache
+D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net5.0\ref\Implanta.Common.dll

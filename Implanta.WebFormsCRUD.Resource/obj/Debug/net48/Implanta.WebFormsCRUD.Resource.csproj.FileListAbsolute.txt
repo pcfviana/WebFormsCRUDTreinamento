@@ -1,0 +1,11 @@
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\bin\Debug\net48\Implanta.WebFormsCRUD.Resource.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\bin\Debug\net48\Implanta.WebFormsCRUD.Resource.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.csproj.AssemblyReference.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.Mensagem.resources
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.csproj.GenerateResource.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.AssemblyInfoInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.AssemblyInfo.cs
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.csproj.CoreCompileInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Resource\obj\Debug\net48\Implanta.WebFormsCRUD.Resource.pdb

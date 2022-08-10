@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net48</TargetFramework>
+	</PropertyGroup>
+	<ItemGroup>
+	  <ProjectReference Include="..\Implanta.Common\Implanta.Common.csproj" />
+	  <ProjectReference Include="..\Implanta.WebFormsCRUD.Entity.Contract\Implanta.WebFormsCRUD.Entity.Contract.csproj" />
+	</ItemGroup>
+	<ItemGroup>
+		<Reference Include="System.ServiceModel" />
+	</ItemGroup>
+	<ItemGroup>
+	  <Folder Include="FilterEntity\" />
+	</ItemGroup>
+</Project>

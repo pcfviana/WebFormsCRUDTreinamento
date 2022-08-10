@@ -1,0 +1,16 @@
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.deps.json
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.csproj.AssemblyReference.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.AssemblyInfoInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.AssemblyInfo.cs
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.csproj.CoreCompileInputs.cache
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\netcoreapp3.1\Implanta.Common.dll
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\netcoreapp3.1\Implanta.Common.pdb
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.csproj.CopyComplete
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.runtimeconfig.json
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.runtimeconfig.dev.json
+D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\netcoreapp3.1\Implanta.WebFormsCRUD.Entity.Contract.genruntimeconfig.cache
