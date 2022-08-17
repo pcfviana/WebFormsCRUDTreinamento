@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {}
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {}
   },
   "projects": {
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
+        "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
         "projectName": "Implanta.WebFormsCRUD.Data",
-        "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
+        "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
         "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-        "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\obj\\",
+        "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

@@ -94,11 +94,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
+      "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
       "projectName": "Implanta.Common",
-      "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
+      "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
       "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-      "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\obj\\",
+      "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",

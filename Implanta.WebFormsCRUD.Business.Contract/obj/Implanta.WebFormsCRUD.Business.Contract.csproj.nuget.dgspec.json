@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj": {}
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj": {}
   },
   "projects": {
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
+        "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
         "projectName": "Implanta.Common",
-        "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
+        "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj",
         "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-        "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\obj\\",
+        "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -57,14 +57,14 @@
         }
       }
     },
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj": {
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj",
+        "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj",
         "projectName": "Implanta.WebFormsCRUD.Business.Contract",
-        "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj",
+        "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\Implanta.WebFormsCRUD.Business.Contract.csproj",
         "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-        "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\obj\\",
+        "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Business.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -89,17 +89,17 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
-                "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
               },
-              "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {
-                "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj"
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj"
               },
-              "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj": {
-                "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj"
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj"
               },
-              "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj": {
-                "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj"
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj"
               }
             }
           }
@@ -117,14 +117,14 @@
         }
       }
     },
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
+        "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
         "projectName": "Implanta.WebFormsCRUD.Data",
-        "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
+        "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj",
         "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-        "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\obj\\",
+        "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -170,14 +170,14 @@
         }
       }
     },
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj": {
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj",
+        "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj",
         "projectName": "Implanta.WebFormsCRUD.Entity.Concret",
-        "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj",
+        "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\Implanta.WebFormsCRUD.Entity.Concret.csproj",
         "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-        "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\obj\\",
+        "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Concret\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -202,11 +202,11 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
-                "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
               },
-              "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj": {
-                "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj"
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj": {
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj",
+        "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj",
         "projectName": "Implanta.WebFormsCRUD.Entity.Contract",
-        "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj",
+        "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\Implanta.WebFormsCRUD.Entity.Contract.csproj",
         "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-        "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\obj\\",
+        "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Entity.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
@@ -256,8 +256,8 @@
           "net48": {
             "targetAlias": "net48",
             "projectReferences": {
-              "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
-                "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
               }
             }
           }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj",
+      "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj",
       "projectName": "Implanta.WebFormsCRUD.Resource",
-      "projectPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj",
+      "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj",
       "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
-      "outputPath": "D:\\Treinamento\\WebFormsCRUDTreinamento\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\obj\\",
+      "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
