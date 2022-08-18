@@ -5,6 +5,7 @@
 	<ItemGroup>
 	  <ProjectReference Include="..\Implanta.WebFormsCRUD.Business.Contract\Implanta.WebFormsCRUD.Business.Contract.csproj" />
 	  <ProjectReference Include="..\Implanta.WebFormsCRUD.Data\Implanta.WebFormsCRUD.Data.csproj" />
+	  <ProjectReference Include="..\Implanta.WebFormsCRUD.Resource\Implanta.WebFormsCRUD.Resource.csproj" />
 	</ItemGroup>
 	<ItemGroup>
 		<Reference Include="System.ServiceModel" />

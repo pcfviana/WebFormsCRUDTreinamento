@@ -10,3 +10,15 @@ D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.cspr
 D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.csproj.CopyComplete
 D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.dll
 D:\Treinamento\WebFormsCRUD\Implanta.Common\obj\Debug\net48\Implanta.Common.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\bin\Debug\net48\Implanta.Common.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\bin\Debug\net48\Implanta.Common.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\bin\Debug\net48\EntityFramework.SqlServer.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\bin\Debug\net48\EntityFramework.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.csproj.AssemblyReference.cache
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.AssemblyInfoInputs.cache
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.AssemblyInfo.cs
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.csproj.CoreCompileInputs.cache
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.csproj.CopyComplete
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.Common\obj\Debug\net48\Implanta.Common.pdb

@@ -12,3 +12,17 @@ D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net4
 D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.csproj.CopyComplete
 D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.dll
 D:\Treinamento\WebFormsCRUD\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\net48\EntityFramework.SqlServer.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\net48\EntityFramework.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\net48\Implanta.Common.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\bin\Debug\net48\Implanta.Common.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.csproj.AssemblyReference.cache
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.AssemblyInfoInputs.cache
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.AssemblyInfo.cs
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.csproj.CoreCompileInputs.cache
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.csproj.CopyComplete
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Entity.Contract\obj\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.pdb

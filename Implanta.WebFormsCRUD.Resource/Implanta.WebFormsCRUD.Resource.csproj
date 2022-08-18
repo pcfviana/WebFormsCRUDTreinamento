@@ -5,4 +5,17 @@
 	<ItemGroup>
 		<Reference Include="System.ServiceModel" />
 	</ItemGroup>
+	<ItemGroup>
+	  <Compile Update="Mensagem.Designer.cs">
+	    <DesignTime>True</DesignTime>
+	    <AutoGen>True</AutoGen>
+	    <DependentUpon>Mensagem.resx</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+	<ItemGroup>
+	  <EmbeddedResource Update="Mensagem.resx">
+	    <Generator>ResXFileCodeGenerator</Generator>
+	    <LastGenOutput>Mensagem.Designer.cs</LastGenOutput>
+	  </EmbeddedResource>
+	</ItemGroup>
 </Project>

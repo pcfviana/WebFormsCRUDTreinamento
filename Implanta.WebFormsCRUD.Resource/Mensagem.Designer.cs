@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Implanta.WebFormsCRUD.Resource1 {
+namespace Implanta.WebFormsCRUD.Resource {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace Implanta.WebFormsCRUD.Resource1 {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Implanta.WebFormsCRUD.Resource1.Mensagem", typeof(Mensagem).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Implanta.WebFormsCRUD.Resource.Mensagem", typeof(Mensagem).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
@@ -57,6 +57,15 @@ namespace Implanta.WebFormsCRUD.Resource1 {
             }
             set {
                 resourceCulture = value;
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Entidade obrigatória.
+        /// </summary>
+        internal static string ErroEntidadeNaoPreenchida {
+            get {
+                return ResourceManager.GetString("ErroEntidadeNaoPreenchida", resourceCulture);
             }
         }
     }

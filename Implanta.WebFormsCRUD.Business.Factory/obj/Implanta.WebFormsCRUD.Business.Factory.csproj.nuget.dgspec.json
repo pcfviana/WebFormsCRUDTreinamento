@@ -94,6 +94,9 @@
               },
               "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj": {
                 "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Data\\Implanta.WebFormsCRUD.Data.csproj"
+              },
+              "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj": {
+                "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj"
               }
             }
           }
@@ -368,6 +371,53 @@
                 "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.Common\\Implanta.Common.csproj"
               }
             }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj",
+        "projectName": "Implanta.WebFormsCRUD.Resource",
+        "projectPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\Implanta.WebFormsCRUD.Resource.csproj",
+        "packagesPath": "C:\\Users\\paulo.cesar\\.nuget\\packages\\",
+        "outputPath": "D:\\TEMP\\REPOS\\WebFormsCRUDTreinamento\\Implanta.WebFormsCRUD.Resource\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\paulo.cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
           }
         },
         "warningProperties": {

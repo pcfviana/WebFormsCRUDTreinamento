@@ -38,7 +38,8 @@
         "framework": ".NETFramework,Version=v4.8",
         "dependencies": {
           "Implanta.WebFormsCRUD.Business.Contract": "1.0.0",
-          "Implanta.WebFormsCRUD.Data": "1.0.0"
+          "Implanta.WebFormsCRUD.Data": "1.0.0",
+          "Implanta.WebFormsCRUD.Resource": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Implanta.WebFormsCRUD.Business.Concret.dll": {}
@@ -130,6 +131,16 @@
         },
         "runtime": {
           "bin/placeholder/Implanta.WebFormsCRUD.IView.dll": {}
+        }
+      },
+      "Implanta.WebFormsCRUD.Resource/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Resource.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Implanta.WebFormsCRUD.Resource.dll": {}
         }
       }
     }
@@ -231,6 +242,11 @@
       "type": "project",
       "path": "../Implanta.WebFormsCRUD.IView/Implanta.WebFormsCRUD.IView.csproj",
       "msbuildProject": "../Implanta.WebFormsCRUD.IView/Implanta.WebFormsCRUD.IView.csproj"
+    },
+    "Implanta.WebFormsCRUD.Resource/1.0.0": {
+      "type": "project",
+      "path": "../Implanta.WebFormsCRUD.Resource/Implanta.WebFormsCRUD.Resource.csproj",
+      "msbuildProject": "../Implanta.WebFormsCRUD.Resource/Implanta.WebFormsCRUD.Resource.csproj"
     }
   },
   "projectFileDependencyGroups": {
