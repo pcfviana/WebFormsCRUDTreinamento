@@ -77,6 +77,8 @@
     <Content Include="css\style.css" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="pagamento.aspx" />
+    <Content Include="pagamentos.aspx" />
     <Content Include="scripts\cute-alert.js" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -93,6 +95,20 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="pagamento.aspx.cs">
+      <DependentUpon>pagamento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pagamento.aspx.designer.cs">
+      <DependentUpon>pagamento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="pagamentos.aspx.cs">
+      <DependentUpon>pagamentos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="pagamentos.aspx.designer.cs">
+      <DependentUpon>pagamentos.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -11,7 +11,7 @@ namespace Implanta.WebFormsCRUD.View.Web
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Redirect("pagamentos.aspx");
+            Response.Redirect("pagamento.aspx");
         }
     }
 }

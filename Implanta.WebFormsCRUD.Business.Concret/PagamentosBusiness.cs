@@ -128,6 +128,8 @@ namespace Implanta.WebFormsCRUD.Business.Concret
             if (pagamento.DataPagamento == null)
                 retorno.AdicionarErro("A data do pagamento é obrigatória");
 
+            if (string.IsNullOrEmpty(pagamento.CPF))
+                retorno.AdicionarErro("O cpf deve ser informado");
 
             if (pagamento.Valor <= 0)
                 retorno.AdicionarErro("O valor deve ser maior que zero");
