@@ -1,4 +1,5 @@
 ﻿using Implanta.Common;
+using Implanta.WebFormsCRUD.Entity.Concret;
 using Implanta.WebFormsCRUD.IView;
 using Implanta.WebFormsCRUD.Presenter;
 using System;
@@ -152,6 +153,41 @@ namespace Implanta.WebFormsCRUD.View.Web
                     btnExcluir.Enabled = true;
             }
          }
+
+        public bool BloquearCamposFavorecidoCPF 
+        {
+            set 
+            {
+                if (value)
+                {
+                    txtFavorecido.Enabled = false;
+                    txtCPF.Enabled = false;
+                }
+            }
+        }
+
+        public List<ClassificacoesPagamentosEntity> ListaClassificacoes 
+        {
+            set 
+            {
+                ddlClassificacoes.DataSource = value;
+                ddlClassificacoes.DataTextField = "Descricao";
+                ddlClassificacoes.DataValueField = "IdClassificacaoPagamento";
+                ddlClassificacoes.DataBind();
+            }
+        }
+
+        public int IdClassificacao 
+        {
+            get
+            {
+                return int.Parse(ddlClassificacoes.SelectedValue);
+            }
+            set
+            {
+                ddlClassificacoes.SelectedValue = value.ToString();
+            }
+        }
 
         public event EventHandler Salvar;
         public event EventHandler Novo;

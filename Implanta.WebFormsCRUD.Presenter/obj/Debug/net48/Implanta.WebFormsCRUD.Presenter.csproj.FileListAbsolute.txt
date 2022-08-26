@@ -38,6 +38,7 @@ D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Entity.Concret.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.IView.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Resource.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.Common.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Business.Contract.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Business.Factory.pdb
@@ -46,6 +47,7 @@ D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Data.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Entity.Concret.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Entity.Contract.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Resource.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\obj\Debug\net48\Implanta.WebFormsCRUD.Presenter.csproj.AssemblyReference.cache
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\obj\Debug\net48\Implanta.WebFormsCRUD.Presenter.GeneratedMSBuildEditorConfig.editorconfig
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\obj\Debug\net48\Implanta.WebFormsCRUD.Presenter.AssemblyInfoInputs.cache
@@ -54,5 +56,3 @@ D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\obj\Debug\
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\obj\Debug\net48\Implanta.WebFormsCRUD.Presenter.csproj.CopyComplete
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\obj\Debug\net48\Implanta.WebFormsCRUD.Presenter.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\obj\Debug\net48\Implanta.WebFormsCRUD.Presenter.pdb
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Resource.dll
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.Presenter\bin\Debug\net48\Implanta.WebFormsCRUD.Resource.pdb

@@ -5,6 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Pagamentos - Busca</title>
+     <link rel="stylesheet" href="css/style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+    <script src="scripts/cute-alert.js"></script>
+    <script src="scripts/pagamentos.js"></script>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -31,7 +35,7 @@
                 </div>
                 <br />
                 <div>
-                    <asp:Button ID="btnBuscar" ClientIDMode="Static" runat="server" Text="PESQUISAR" />
+                    <asp:Button ID="btnBuscar" ClientIDMode="Static" runat="server" Text="PESQUISAR" OnClientClick="return ValidarCamposPesquisa();" />
                     <asp:Button ID="btnNovo" ClientIDMode="Static" runat="server" PostBackUrl="pagamento.aspx" Text="NOVO" />
                 </div>
                 <br />

@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 namespace Implanta.WebFormsCRUD.Presenter
 {
     public  class PagamentoPresenter : Base.PresenterBase<IPagamentosBusiness, IPagamentoView, PagamentosEntity >
-    {
+    {   
         public PagamentoPresenter(IPagamentoView view) 
             : base(WebFormsCRUDFactory.PagamentosBusiness())
         {
@@ -29,7 +29,7 @@ namespace Implanta.WebFormsCRUD.Presenter
 
         private void View_Inicia(object sender, EventArgs e)
         {
-            
+            View.ListaClassificacoes = WebFormsCRUDFactory.ClassificacoesPagamentosBusiness().Buscar(); ;
         }
 
         private void View_Novo(object sender, EventArgs e)
@@ -42,7 +42,7 @@ namespace Implanta.WebFormsCRUD.Presenter
                 Numero = 0
             };
 
-            SetView(novoPagamento);
+            CarregarInformacoesDoPresenterNaAplicacaoWebForm(novoPagamento);
         }
 
         private void View_Salvar(object sender, EventArgs e)
@@ -52,11 +52,11 @@ namespace Implanta.WebFormsCRUD.Presenter
 
             NovaOperacao();
 
-            Operacao.Entidade = GetView();
+            Operacao.Entidade = CriarObjetoPagamentoEntityRecuperandoOsDadosDaAplicacaoWebForm();
             Operacao = BusinessFactory.Salvar(Operacao);
 
             if (!Operacao.Erro && View.Acao != Common.EntityAction.Delete)
-                SetView(Operacao.Entidade);
+                CarregarInformacoesDoPresenterNaAplicacaoWebForm(Operacao.Entidade);
 
             View.Erro = Operacao.Erro;
             View.Mensagens = Operacao.Mensagens;
@@ -64,10 +64,10 @@ namespace Implanta.WebFormsCRUD.Presenter
         private void View_Abrir(object sender, Common.EventParam<Guid> e)
         {
             PagamentosEntity pagamento = BusinessFactory.Recuperar(e.Parametro);
-            SetView(pagamento);
+            CarregarInformacoesDoPresenterNaAplicacaoWebForm(pagamento);
         }
 
-        private void SetView(PagamentosEntity pagamento)
+        private void CarregarInformacoesDoPresenterNaAplicacaoWebForm(PagamentosEntity pagamento)
         {
             View.Acao = pagamento.Acao;
             View.IdPagamento = pagamento.IdPagamento;
@@ -78,9 +78,11 @@ namespace Implanta.WebFormsCRUD.Presenter
             View.CPF = pagamento.CPF;
             View.Valor = pagamento.Valor;
             View.BloquearExclusao = pagamento.Numero == 0;
+            View.BloquearCamposFavorecidoCPF = pagamento.Valor > 0;
+            View.IdClassificacao = pagamento.IdClassificacao;
         }
 
-        private PagamentosEntity GetView()
+        private PagamentosEntity CriarObjetoPagamentoEntityRecuperandoOsDadosDaAplicacaoWebForm()
         {
             var pagamento = new PagamentosEntity 
             {

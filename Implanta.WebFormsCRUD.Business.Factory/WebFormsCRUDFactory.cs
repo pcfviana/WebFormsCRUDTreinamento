@@ -10,5 +10,10 @@ namespace Implanta.WebFormsCRUD.Business.Factory
         {
             return new PagamentosBusiness();
         }
+
+        public static IClassificacoesPagamentosBusiness ClassificacoesPagamentosBusiness()
+        {
+            return new ClassificacoesPagamentosBusiness();
+        }
     }
 }

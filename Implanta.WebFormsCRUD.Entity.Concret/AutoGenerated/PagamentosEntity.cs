@@ -35,5 +35,6 @@ namespace Implanta.WebFormsCRUD.Entity.Concret
         public string Descricao { get; set; }
         public string Favorecido { get; set; }
         public string CPF { get; set; }
+        public int IdClassificacao { get; set; }
     }
 }

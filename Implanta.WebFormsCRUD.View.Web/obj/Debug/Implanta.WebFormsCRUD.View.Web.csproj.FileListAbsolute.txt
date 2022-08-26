@@ -140,6 +140,9 @@ D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implant
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.IView.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Presenter.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Contract.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Concret.dll
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Data.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.Common.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Factory.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Entity.Concret.pdb
@@ -149,14 +152,11 @@ D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implant
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\EntityFramework.xml
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\EntityFramework.SqlServer.xml
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Contract.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Concret.pdb
+D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Data.pdb
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\obj\Debug\Implanta.WebFormsCRUD.View.Web.csproj.AssemblyReference.cache
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\obj\Debug\Implanta.WebFormsCRUD.View.Web.csproj.CoreCompileInputs.cache
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\obj\Debug\Implanta.WebFormsCRUD.View.Web.csproj.CopyComplete
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\obj\Debug\Implanta.WebFormsCRUD.View.Web.dll
 D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\obj\Debug\Implanta.WebFormsCRUD.View.Web.pdb
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Contract.dll
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Concret.dll
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Data.dll
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Contract.pdb
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Business.Concret.pdb
-D:\TEMP\REPOS\WebFormsCRUDTreinamento\Implanta.WebFormsCRUD.View.Web\bin\Implanta.WebFormsCRUD.Data.pdb

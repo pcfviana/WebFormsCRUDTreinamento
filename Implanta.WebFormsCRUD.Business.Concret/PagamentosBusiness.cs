@@ -13,6 +13,7 @@ namespace Implanta.WebFormsCRUD.Business.Concret
 {
     public partial class PagamentosBusiness
     {
+        const decimal VALOR_LIMITE_DIARIO = 10000M;
         public Operacao<PagamentosEntity> Salvar(Operacao<PagamentosEntity> operacao)
         {
             if (operacao != null && operacao.Entidade == null)
@@ -21,7 +22,8 @@ namespace Implanta.WebFormsCRUD.Business.Concret
                 return operacao;
             }
 
-            operacao.AdicionarErro(ValidarCampos(operacao.Entidade));
+            if(operacao.Entidade.Acao != EntityAction.Delete)
+                operacao.AdicionarErro(ValidarCampos(operacao.Entidade));
 
             if (operacao.Erro)
                 return operacao;
@@ -125,16 +127,56 @@ namespace Implanta.WebFormsCRUD.Business.Concret
         {
             ActionReturn retorno = new ActionReturn();
 
-            if (pagamento.DataPagamento == null)
-                retorno.AdicionarErro("A data do pagamento é obrigatória");
 
-            if (string.IsNullOrEmpty(pagamento.CPF))
-                retorno.AdicionarErro("O cpf deve ser informado");
+            if (pagamento.CPF.CPFValido())
+                retorno.AdicionarErro("CPF inválido");
 
-            if (pagamento.Valor <= 0)
-                retorno.AdicionarErro("O valor deve ser maior que zero");
+            ValidarCampoNome(retorno, pagamento);
+            ValidarCPF(retorno, pagamento);
+            ValidarLimiteDiario(retorno, pagamento);
 
             return retorno;
+        }
+
+        private void ValidarCampoNome(ActionReturn action , PagamentosEntity pagamento)
+        {
+            if (string.IsNullOrEmpty(pagamento.Favorecido))
+                action.AdicionarErro("O favorecido deve ser informado");
+            else if(pagamento.Favorecido.Length > 200)
+                action.AdicionarErro("O campo favorecido deve ter no máximo 200 caracteres");
+        }
+
+        private void ValidarCPF(ActionReturn action, PagamentosEntity pagamento)
+        {
+        }
+
+        private void ValidarLimiteDiario(ActionReturn action, PagamentosEntity pagamento)
+        {
+            if(pagamento.Acao != EntityAction.Delete)
+            {
+                if(pagamento.Valor > VALOR_LIMITE_DIARIO)
+                {
+                    action.AdicionarErro("O limite diário permitido é de R$ 10.000");
+                }
+                else
+                {
+                    using(var db = new WebFormsCRUDDbContext())
+                    {
+                        var somaPagamentos = db.Pagamentos
+                            .Where(p => p.CPF == pagamento.CPF &&
+                                        p.DataPagamento == pagamento.DataPagamento &&
+                                        p.IdPagamento != pagamento.IdPagamento)
+                            .ToList()
+                            .Sum(p => p.Valor);
+
+                        if((somaPagamentos + pagamento.Valor) > VALOR_LIMITE_DIARIO)
+                        {
+                            string msg = string.Format("O limite diário permitido é de R$ 10.000,00. Já existe(m) pagamento(s) que totalizam R$ {0}.", somaPagamentos.ToString("n2"));
+                            action.AdicionarErro(msg);
+                        }
+                    }
+                }
+            }
         }
 
         internal int GetNumeroPagamento()

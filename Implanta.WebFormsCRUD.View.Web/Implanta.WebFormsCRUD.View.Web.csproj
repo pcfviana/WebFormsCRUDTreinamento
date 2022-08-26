@@ -77,9 +77,12 @@
     <Content Include="css\style.css" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
+    <Content Include="Img\delete-icon.jpg" />
     <Content Include="pagamento.aspx" />
     <Content Include="pagamentos.aspx" />
     <Content Include="scripts\cute-alert.js" />
+    <Content Include="scripts\pagamento.js" />
+    <Content Include="scripts\pagamentos.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -168,6 +171,8 @@
           <DevelopmentServerPort>50383</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>https://localhost:44362/</IISUrl>
+          <OverrideIISAppRootUrl>True</OverrideIISAppRootUrl>
+          <IISAppRootUrl>https://localhost:44362/</IISAppRootUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

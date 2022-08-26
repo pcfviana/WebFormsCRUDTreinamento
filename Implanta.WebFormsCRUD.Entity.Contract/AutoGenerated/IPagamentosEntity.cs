@@ -24,5 +24,6 @@ namespace Implanta.WebFormsCRUD.Entity.Contract
         string Descricao { get; set; }
         string Favorecido { get; set; }
         string CPF { get; set; }
+        int IdClassificacao { get; set; }
     }
 }
